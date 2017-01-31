@@ -1,2 +1,2 @@
-# RSVP-vuejs
+# RSVP VueJS
 RSVP event Vuejs app
